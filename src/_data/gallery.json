@@ -1,0 +1,162 @@
+[
+    {
+        "title": "ALT-J",
+        "date": "March 15, 2023",
+        "credit": "SOON TO COME..." ,
+        "src": "alt-j.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "ARCTIC MONKEYS",
+        "date": "September 7, 2023",
+        "credit": "SOON TO COME..." ,
+        "src": "arctic.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Nightmare Fuel",
+        "date": "December 1, 2022",
+        "credit": "The objectively funniest photo ever. Same energy as our album cover except your eyes are somehow even bigger and cuter and I look like an evil spirit about to posess you" ,
+        "src": "bubble2.png",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "NYC SELFIE",
+        "date": "November 25, 2022",
+        "credit": "Outside of Penn Station in NYC, we are both so happy and in OUR FAVORITE CITY",
+        "src": "nyc2.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Brooklyn",
+        "date": "November 25, 2022",
+        "credit": "Us in our future brooklyn appartment, possibly my favorite photo of us ever",
+        "src": "brooklyn.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "SHELDON",
+        "date": "November 24, 2022",
+        "credit": "The two greatest beings to walk this Earth",
+        "src": "Sheldon_copy.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "PGH",
+        "date": "November 23, 2022",
+        "credit": "Thanksgiving week in Pittsburgh overlooking the city before going ice skating and watchin Bones and All",
+        "src": "PGH.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Our Future Album Cover",
+        "date": "November 13, 2022",
+        "credit": "Photo from our lil spot in levering, perfectly timed and mildly uncomfortable",
+        "src": "albumcover.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Minion",
+        "date": "October 27, 2022",
+        "credit": "We were at Hallo-Wine night and you were wearing the minion costume I got... this costume was made for children aged 3-5...",
+        "src": "minion.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Gilman",
+        "date": "October 24, 2022",
+        "credit": "Us in our spot at Gilman playin' around with the camera. There are so many photos from this day, and even more memories, but this pic is my fav.",
+        "src": "gilman.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Studious",
+        "date": "October 19, 2022",
+        "credit": "We were studying in 9East at 2:53 am, as we do, and I snuck in a quick photo",
+        "src": "studious.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Rockin Out at OP",
+        "date": "September 20, 2022",
+        "credit": "Sickest photo ever taken, in your natural state as a superstar",
+        "src": "rockstar.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "LONG GORL",
+        "date": "August 28, 2022",
+        "credit": "This was a big day for the world of photography",
+        "src": "leg.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "In Da Car",
+        "date": "June 5, 2022",
+        "credit": "This is a photo of us stopped at a red light next to MedStar, you are wearing the top you made from that cool fabric and those black sunglasses you love",
+        "src": "car.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Soulmates",
+        "date": "April 28, 2022",
+        "credit": "",
+        "src": "soulmates.jpg",
+        "alt": "Spring fair waiting to see the fireworks, in our go-to pose",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Boat Formal",
+        "date": "April 12, 2022",
+        "credit": "We were in the Phi Psi basement getting ready for the boat formal, you were wearing your classic bubbly smile and I was engaging in my favorite pastime (kissing you).",
+        "src": "formal.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "At HotPot",
+        "date": "April 10, 2022",
+        "credit": "When we got dinner with Sophia, Emily, Valeria, Evan, Ilana, and Mason at HotPot and put the phone on the conveyor belt... good food, good people, good times. (also you are wearing my hoodie and look very very cute) ",
+        "src": "hotpot.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Jammin",
+        "date": "Febraury 27, 2022",
+        "credit": "Us getting ready for our first phi psi basement concert. You are in your natural biome (playing guitar) and little did we know we were in for the greatest night ever.",
+        "src": "geetar_copy.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Glasses",
+        "date": "February 6, 2022",
+        "credit": "You were back in Pittsburgh and I was in Baltimore, we had just started dating and you were deciding what glasses to get. You sent me a photo lookin' CUTE AS HELL to decide which ones to get and every subsequent photo was the cutest and most beautful photo I had ever seen",
+        "src": "cutie_copy.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "The First",
+        "date": "October 21, 2021",
+        "credit": "This is the first ever photo I have of us, the first ever 'HOW YOU TAKE THIS PHOTO', and the start of the most beuatiful relationship of my life, with the most incredible girl in this world. The best thing to ever happen to me.",
+        "src": "HOWYOUTAKETHISPHOTO.jpg",
+        "alt": " ",
+        "imgDir": "/images/"
+    }
+]
