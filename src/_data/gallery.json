@@ -1,10 +1,22 @@
 [
     {
-        "title": "ALT-J",
-        "date": "March 15, 2023",
+        "title": "bruh[",
+        "date": "September 8, 2023",
         "credit": "SOON TO COME..." ,
-        "src": "alt-j.jpg",
-        "alt": " ",
+        "src": "shellyAgain.jpg",
+        "alt": "heyyy",
+        "imgDir": "/images/",
+        "widths": [640, 390, 1024],
+        "sizes": "(min-width: 300px) 88.3vw, 10vw",
+        "width": 600,
+        "height": 600
+    },
+    {
+        "title": "00[",
+        "date": "September 8, 2023",
+        "credit": "SOON TO COME..." ,
+        "src": "mama.jpg",
+        "alt": "heyyy",
         "imgDir": "/images/"
     },
     {

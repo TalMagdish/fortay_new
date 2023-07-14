@@ -2,15 +2,21 @@
 <header class="top-nav">
     <div class="intro">
         <div>
-            <a class="home-button" href="/">{{ site.author.firstName }} {{ site.author.lastName }}</a>
-            <p class="home-about">{{ site.author.about }}</p>
+            <a class="home-button" href="/">LUV YA :) </a>
+            <p class="home-about"></p>
         </div>
     </div>
     <nav class="nav-main">
         <ul class="nav-list">
-            {% for link in navigation %}
-            <li><a href="{{ link.url | url }}" class="link">{{ link.title }}</a></li>
-            {% endfor %}
+            <li><a href="/" class="link">pics</a></li>
+  
+            <li><a href="/gallery/" class="link">pics with dates/titles</a></li>
+  
+            <li>
+              <a href="/gallery/bruh" class="link">clickthrough/titles</a>
+            </li>
+  
+            <li><a href="/countdown/" class="link">Countdown</a></li>
         </ul>
     </nav>
 </header>
